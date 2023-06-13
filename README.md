@@ -1,2 +1,2 @@
-# ML_UOL_XW
+# Machine Learning Script
 Learning script :)
